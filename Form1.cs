@@ -19,7 +19,7 @@ namespace Avenger01
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ahoj");
+            MessageBox.Show("Ahoj  xxxxxxxxxxxxc");
         }
     }
 }
