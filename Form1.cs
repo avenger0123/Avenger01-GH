@@ -21,5 +21,10 @@ namespace Avenger01
         {
             MessageBox.Show("Ahoj  xxxxxxxxxxxxc");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Dobrý den");
+        }
     }
 }
